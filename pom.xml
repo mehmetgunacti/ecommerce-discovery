@@ -18,11 +18,13 @@
     <description>Member of the e-Commerce Project</description>
 
     <dependencies>
+
         <!-- EUREKA SERVER -->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
         </dependency>
+
     </dependencies>
 
 </project>
