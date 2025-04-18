@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Discovery Server
+eureka:
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
