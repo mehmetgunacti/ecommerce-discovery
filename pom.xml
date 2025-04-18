@@ -17,6 +17,10 @@
     <name>Discovery Server</name>
     <description>Member of the e-Commerce Project</description>
 
+    <properties>
+        <jib.target.image>your-repository/child-service:latest</jib.target.image>
+    </properties>
+
     <dependencies>
 
         <!-- EUREKA SERVER -->
